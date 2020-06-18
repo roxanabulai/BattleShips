@@ -1,0 +1,4 @@
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\x64\Debug\Gamee.exe
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\x64\Debug\Gamee.pdb
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\x64\Debug\Gamee.exe
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\x64\Debug\Gamee.pdb

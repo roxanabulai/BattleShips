@@ -1,0 +1,6 @@
+﻿  UI.cpp
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\UI.cpp(23,34): warning C4101: 'toPlay': unreferenced local variable
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\UI.cpp(23,19): warning C4101: 'currentPlayer': unreferenced local variable
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\UI.cpp(93,6): warning C4101: 'autom': unreferenced local variable
+C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\UI.cpp(401,6): warning C4101: 'cont': unreferenced local variable
+  Gamee.vcxproj -> C:\Users\ROXANA\Desktop\Lab-uri OOP\Gamee\Debug\Gamee.exe

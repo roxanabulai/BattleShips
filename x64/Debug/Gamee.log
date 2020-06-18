@@ -1,0 +1,11 @@
+﻿  main.cpp
+  Player.cpp
+  Service.cpp
+  Ship.cpp
+  UI.cpp
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\UI.cpp(11,34): warning C4101: 'toPlay': unreferenced local variable
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\UI.cpp(11,19): warning C4101: 'currentPlayer': unreferenced local variable
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\UI.cpp(89,6): warning C4101: 'autom': unreferenced local variable
+C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\UI.cpp(384,6): warning C4101: 'cont': unreferenced local variable
+  Generating Code...
+  Gamee.vcxproj -> C:\Users\ROXANA\Desktop\BattleeeShips\Gamee\x64\Debug\Gamee.exe
